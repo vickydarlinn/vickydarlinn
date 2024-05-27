@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/utpalsangwan" target="blank"><img src="https://img.shields.io/twitter/follow/utpalsangwan?logo=twitter&style=for-the-badge" alt="utpalsangwan" /></a> </p>
 
-- 🔭 I’m currently working on **My Diary Project (Next.Js)**
+- 🔭 I’m currently working on **Interview Buddy**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://darlinn.vercel.app/](https://darlinn.vercel.app/)
 
-- 💬 Ask me about **MERN Stack | React Native | TypeScript | NextJs**
+- 💬 Ask me about **MERN Stack | React Native | TypeScript | NextJs | LLM | **
 
 - 📫 How to reach me **uttapalsangwan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/143E1ndeQ2pNxQ5vr07KE4SJcVjmgZVsz/view?usp=sharing](https://drive.google.com/file/d/143E1ndeQ2pNxQ5vr07KE4SJcVjmgZVsz/view?usp=sharing)
 
 - ⚡ Fun fact **I've battled code bugs longer than I'd like to admit, but victory is always sweeter when the semicolons surrender! 💻🏆**
 
