@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **uttapalsangwan@gmail.com**
 
-- ⚡ Fun fact **I've battled code bugs longer than I'd like to admit, but victory is always sweeter when the semicolons surrender! 💻🏆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
