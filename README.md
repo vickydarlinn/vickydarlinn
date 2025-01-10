@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/utpalsangwan" target="blank"><img src="https://img.shields.io/twitter/follow/utpalsangwan?logo=twitter&style=for-the-badge" alt="utpalsangwan" /></a> </p>
 
-- 🔭 I’m currently making   **Pookie Shoppe Pizza application**
-
-- 🌱 I’m currently learning **Python**
-
-
+- 🔭 I’m currently Exploring about Ai stuff
 
 - 📫 How to reach me **uttapalsangwan@gmail.com**
 
