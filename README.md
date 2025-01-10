@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://darlinn.vercel.app/](https://darlinn.vercel.app/)
+
 
 - 📫 How to reach me **uttapalsangwan@gmail.com**
 
